@@ -4,7 +4,7 @@ import Featured from "./Components/Featured"
 import Rooms from "./Components/Rooms"
 import WhatSection from "./Components/WhatSection";
 import Location from "./Components/Location";
-import ImageSection from "./Components/ImageSection";
+
 import Testimonial from "./Components/Testimonial";
 import Footer from "./Components/Footer";
 import Details from "./Components/Details";
