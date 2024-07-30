@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 import TerraMainImage from "../asset/mainImage.webp"
-import TerraOneImage from "../asset/gym.webp"
-import TerraTwoImage from "../asset/terrace.webp"
+import TerraTwoImage from "../asset/gym.webp"
+import TerraOneImage from "../asset/terrace.webp"
 import TerraThreeImage from "../asset/canteen.webp"
-import TerraFourImage from "../asset/room.webp"
+import TerraFourImage from "../asset/eating.webp"
 import { LazyLoadImage } from 'react-lazy-load-image-component'
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import PlaceholderImage from "../asset/placeholder.png"
