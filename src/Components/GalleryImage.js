@@ -5,6 +5,14 @@ import TerraThreeImage from "../asset/canteen.webp"
 import TerraFourImage from "../asset/eating.webp"
 import TerraPrivateImage from "../asset/private.webp"
 import TerraTwinImage from "../asset/twin.webp"
+import HamletImageOne from "../asset/galleryImages/IMG_2324.webp"
+import HamletImageTwo from "../asset/galleryImages/IMG_2329.webp"
+import HamletImageThree from "../asset/galleryImages/IMG_4063.webp"
+import HamletImageFour from "../asset/galleryImages/IMG_4067.webp"
+import HamletImageFive from "../asset/galleryImages/NNB_4428-Pano.webp"
+import HamletImageSix from "../asset/galleryImages/NNB_4438-Pano.webp"
+import HamletImageSeven from "../asset/galleryImages/NNB_4451-HDR.webp"
+import HamletImageEight from "../asset/galleryImages/NNB_4452-HDR.webp"
 import EventOne from "../asset/event/event1.webp"
 import EventTwo from "../asset/event/event2.webp"
 import EventThree from "../asset/event/event3.webp"
@@ -65,7 +73,46 @@ export const galleryImages = [
         width: "100%",
         height: "100%",
       },
-     
+      {
+        src: HamletImageOne,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageTwo,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageThree,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageFour,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageFive,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageSix,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageSeven,
+        width: "100%",
+        height: "100%",
+      },
+      {
+        src: HamletImageEight,
+        width: "100%",
+        height: "100%",
+      },
       
 ]
 
